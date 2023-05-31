@@ -1,7 +1,7 @@
 # construbem
 Projeto desenvolvido na Imersão Jornada de Dados da EBAC. 
 
-Foram utilizadas duas bases de dados sobre vendas (vendas e potencial) de uma empresa fictícia para as análises que foram feitas inicialmente no DataBicks e posteriormente no MSSQL. Os resultados das análises
+Foram utilizadas duas bases de dados sobre vendas (vendas2 e potencial) de uma empresa fictícia para as análises que foram feitas inicialmente no DataBicks e posteriormente no MSSQL. Os resultados das análises
 foram adicionados em um arquivo PowerPoint. Também foi criado um dashborad no PowerBi.
 
 ## Análises realizadas
